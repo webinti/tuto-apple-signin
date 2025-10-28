@@ -1,0 +1,9 @@
+{
+  "name": "tuto-apple-signin",
+  "version": "1.0.0",
+  "description": "JWT generator for Apple Sign In",
+  "main": "api/generate-jwt.js",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
